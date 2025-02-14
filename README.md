@@ -23,6 +23,8 @@
 ```bash
 git clone https://github.com/TobinFrost/project-kraken-excel.git
 cd project-kraken-excel
+git submodule update --init --recursive
+git submodule update --remote --merge
 ```
 
 ### 2️⃣ Installation des dépendances
