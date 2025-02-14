@@ -1,0 +1,7 @@
+[submodule "kraken-excel-backend"]
+    path = kraken-excel-backend
+    url = https://github.com/TobinFrost/kraken-excel-backend.git
+
+[submodule "kraken-excel-front"]
+    path = kraken-excel-front
+    url = https://github.com/TobinFrost/kraken-excel-front.git
